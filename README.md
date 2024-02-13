@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kathryn. I'm a Renaissance data practitioner, passionate about making valid statistical inferences, generating useful imperfect models and scaling their impact with competence in software & data engineering principles.
+- 👋 Hi, I’m Kathryn. I'm a Renaissance data practitioner, enthusiastic about impeccably organizing data, making valid statistical inferences, generating useful imperfect models and scaling their impact with competence in software & data engineering workflows.
 - 🌱 I’m currently learning solutions to common ML deployment challenges and heterogenous treatment effect estimation.
 - 👶 This is my new personal account; I'll be slowly migrating work here as I have time! Nobody said it would be easy to be passionate about data science, gardening, bread and the outdoors all at once, but I try anyway.
 
